@@ -1,110 +1,55 @@
-\# Programa de Fidelización de Clientes - Store 1
+# Customer Loyalty Program - Store 1
 
+## Project Description
 
+The e-commerce company Store 1 is preparing to launch a new Customer Loyalty Program. To achieve this, it is essential to analyze the customer base and ensure the data is complete, clean, and organized.
 
-\##  Descripción del Proyecto
+The main objective is to design personalized campaigns and optimize future marketing actions. To achieve this, customers will be segmented based on variables such as:
 
+- Age
+- Purchase history
+- Product categories purchased
 
-
-La empresa de comercio electrónico \*\*Store 1\*\* está preparando el lanzamiento de un nuevo \*\*Programa de Fidelización de Clientes\*\*. Para ello, es fundamental analizar la base de clientes y asegurarse de que los datos estén completos, limpios y organizados.
-
-
-
-El objetivo principal es \*\*diseñar campañas personalizadas\*\* y \*\*optimizar futuras acciones de marketing\*\*. Para lograrlo, se segmentará a los clientes según variables como:
-
-
-
-\- Edad
-
-\- Historial de compras
-
-\- Categorías de productos adquiridos
-
-
-
-Como parte del equipo de análisis, tu tarea inicial será \*\*revisar y transformar una muestra de los datos existentes\*\* para dejarlos listos para el análisis.
-
-
+As part of the analytics team, the initial task will be to review and transform a sample of the existing data to prepare it for analysis.
 
 ---
 
+## Objectives
 
-
-\##  Objetivos
-
-
-
-\- Limpiar los perfiles de los clientes.
-
-\- Estandarizar nombres y edades.
-
-\- Calcular el gasto total por cliente.
-
-\- Validar la consistencia de los datos y corregir errores.
-
-\- Preparar los datos para generar indicadores de negocio (KPIs).
-
-
+- Clean customer profiles.
+- Standardize names and ages.
+- Calculate total spending per customer.
+- Validate data consistency and correct errors.
+- Prepare data to generate business indicators (KPIs).
 
 ---
 
+## Data Description
 
-
-\##  Descripción de los Datos
-
-\- `usuario\_id`: Identificador único para cada usuario.
-
-\- `usuario\_nombre`: Nombre del usuario.
-
-\- `usuario\_edad`: Edad del usuario.
-
-\- `categorias\_fav\_low`: Categorías favoritas de los artículos que compró el usuario (ELECTRÓNICA, DEPORTE, LIBROS, etc.).
-
-\- `gasto\_por\_categoria`: Lista de números enteros que indican el gasto total en cada categoría favorita.
-
-
+- `user_id`: Unique identifier for each user.
+- `user_name`: User's name.
+- `user_age`: User's age.
+- `fav_categories`: Favorite categories of items purchased by the user (ELECTRONICS, SPORTS, BOOKS, etc.).
+- `total_spendings`: List of integers indicating the total spending in each favorite category.
 
 ---
 
+## Project Stages
 
+1. Project Reading
 
-\##  Etapas del Proyecto
+&nbsp; Detailed review of the description and next steps. Understanding the dataset.
 
+2. \*\*Resolution of steps\*\*
 
+&nbsp; Development of the code required for each stage of the analysis, with explanatory comments.
 
-1\. \*\*Lectura del proyecto\*\*  
+3\*\*Review of work\*\*
 
-&nbsp;  Revisión detallada de la descripción y los pasos a seguir. Comprensión del conjunto de datos.
-
-
-
-2\. \*\*Resolución de los pasos\*\*  
-
-&nbsp;  Desarrollo del código necesario para cada etapa del análisis, con comentarios explicativos.
-
-
-
-3\. \*\*Revisión del trabajo\*\*  
-
-&nbsp;  Verificación del código, limpieza final y documentación adicional antes de la entrega.
-
-
+&nbsp; Code verification, final cleanup, and additional documentation before delivery.
 
 ---
 
+## Expected Result
 
-
-\##  Resultado Esperado
-
-
-
-Un conjunto de datos limpio, estandarizado y listo para análisis, que permita generar KPIs y diseñar campañas de fidelización efectivas.
-
-
-
----
-
-
-
-
-
+A clean, standardized, and analysis-ready dataset that allows for generating KPIs and designing effective loyalty campaigns.
