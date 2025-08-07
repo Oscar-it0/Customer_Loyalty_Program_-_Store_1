@@ -40,11 +40,11 @@ As part of the analytics team, the initial task will be to review and transform 
 
 &nbsp; Detailed review of the description and next steps. Understanding the dataset.
 
-2. \*\*Resolution of steps\*\*
+2. Resolution of steps
 
 &nbsp; Development of the code required for each stage of the analysis, with explanatory comments.
 
-3\*\*Review of work\*\*
+3. Review of work
 
 &nbsp; Code verification, final cleanup, and additional documentation before delivery.
 
