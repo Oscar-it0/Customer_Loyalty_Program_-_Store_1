@@ -1,4 +1,4 @@
-# Customer Loyalty Program - Store 1
+# Sprint 1 - Project: Customer Loyalty Program - Store 1
 
 ## Project Description
 
@@ -47,9 +47,3 @@ As part of the analytics team, the initial task will be to review and transform 
 3. Review of work
 
 &nbsp; Code verification, final cleanup, and additional documentation before delivery.
-
----
-
-## Expected Result
-
-A clean, standardized, and analysis-ready dataset that allows for generating KPIs and designing effective loyalty campaigns.
