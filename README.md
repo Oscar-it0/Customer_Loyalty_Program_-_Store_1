@@ -26,24 +26,20 @@ As part of the analytics team, the initial task will be to review and transform 
 
 ## Data Description
 
-- `user_id`: Unique identifier for each user.
-- `user_name`: User's name.
-- `user_age`: User's age.
-- `fav_categories`: Favorite categories of items purchased by the user (ELECTRONICS, SPORTS, BOOKS, etc.).
-- `total_spendings`: List of integers indicating the total spending in each favorite category.
+| Column | Description |
+|-----------|-------------|
+| `user_id` |  Unique identifier for each user |
+| `user_name` |  User's name |
+| `user_age` |  User's age |
+| `fav_categories` |  Favorite categories of items purchased by the user (ELECTRONICS, SPORTS, BOOKS, etc.) |
+| `total_spendings` |  List of integers indicating the total spending in each favorite category |
 
 ---
 
 ## Project Stages
 
 1. Project Reading
-
-&nbsp; Detailed review of the description and next steps. Understanding the dataset.
-
 2. Resolution of steps
-
-&nbsp; Development of the code required for each stage of the analysis, with explanatory comments.
-
 3. Review of work
 
-&nbsp; Code verification, final cleanup, and additional documentation before delivery.
+---
